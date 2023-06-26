@@ -1,5 +1,5 @@
 ### Welcome! 
-### I'm a fullstack software developer specilized in backend
+### 21 y.o, a full-stack software developer
 
 * 🌍  Based in Tashkent, Uzbekistan
 * 🧠  Learning Cloud, Networking
