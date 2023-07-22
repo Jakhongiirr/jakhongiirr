@@ -1,7 +1,7 @@
 ### Welcome! 
 ### 21 y.o, a full-stack software developer
 
-* 🌍  Based in Tashkent, Uzbekistan
+* 🌍  Lives in Bukhara & Tashkent, Uzbekistan
 * 🧠  Learning Cloud, Networking
 * 🤝  Open to collaborating on anything!
 
